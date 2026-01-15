@@ -1,0 +1,40 @@
+h1{
+    color:blueviolet
+}
+h3{
+    color: aquamarine;
+}
+body{
+    background-color: darksalmon;
+}
+h1{
+    text-align: center;
+}
+div{
+    background-color:darksalmon;
+    display: block;
+}
+span{
+    color:azure;
+    display: inline;
+}
+span { background: hsla(210, 100%, 50%, 0.5); }
+
+
+.fortnite {
+    background-color: lightcyan;
+    padding: 12px;
+    border-radius: 6px;
+    margin: 8px 0;
+}
+
+.michigan12-1 {
+    color: coral;
+    font-style: italic;
+}
+
+#ninerswinningsuperbowl {
+    color: gold;
+    font-weight: 700;
+    text-decoration: underline;
+}
